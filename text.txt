@@ -1,2 +1,6 @@
 dòng đầu tiên
+<<<<<<< HEAD
 dong thu ba
+=======
+dong thu hai
+>>>>>>> cc472032a70776cfa27326bb84235ca42407d4c5
